@@ -1,2 +1,9 @@
 # Python-Project
 Data Analysis Project
+
+This health insurance data analysis project aimed to explore and analyze a comprehensive dataset containing various health-related factors of individuals. 
+
+The analysis focused on understanding the relationships between different variables and their potential impact on health insurance claims and risk assessment.
+
+This data analysis project sheds light on the crucial role of data analytics in the health insurance industry, offering actionable insights for informed decision-making and improved risk assessment practices.
+
